@@ -22,3 +22,5 @@ Creating a new branch is quick AND simple.
 New change.
 
 FF
+
+NO-FF
